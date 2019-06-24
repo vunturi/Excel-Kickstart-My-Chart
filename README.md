@@ -1,2 +1,2 @@
 # Excel-Kickstart My Chart
-Unit-1 Excel
+Unit 1 Excel
